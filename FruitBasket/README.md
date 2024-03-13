@@ -1,4 +1,9 @@
-#### Author: P3g4su5    
-#### Difficulty: Easy
-#### Service
-#### Description ->  🍎🍌🍇🍓🍊🥭🍍🍑🍈🍉
+### Fruit Basket
+
+```
+Author: P3g4su5   
+
+Difficulty: Easy
+
+Description : 🍎🍌🍇🍓🍊🥭🍍🍑🍈🍉
+```
